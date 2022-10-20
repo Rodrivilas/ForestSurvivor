@@ -10,5 +10,8 @@ Al comenzar a jugar, el usuario debe recolectar todas las monedas del mapa evita
 Para las animaciones usamos los tipicos AnimationPlayer y los organizamos en un AnimationTree, para que estas animaciones estes respectivamente organizadas y sean responsivas a lo que pase en pantalla.
 Luego usamos Sprites y Collisions shapes para hacer las colisiones, ademas de usar el RayCast2D para que cada personaje este ubicado correctamente sobre el poligono que es el mapa. Esta parte ademas usa layers para saber con que debe interactuar.
 
+El link de drive del archivo ejecutable:
+https://drive.google.com/file/d/18mwwUDzrXN5OX37KPT3FdPL1oaH7VaPQ/view?usp=sharing
+
 
 
